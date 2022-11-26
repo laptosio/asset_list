@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Aptos Coin",
+    "symbol": "APT",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/APT.webp",
+    "token_type": {
+      "type": "0x1::aptos_coin::AptosCoin",
+      "account_address": "0x1",
+      "module_name": "aptos_coin",
+      "struct_name": "AptosCoin"
+    }
+  },
+  {
+    "name": "Bitcoin",
+    "symbol": "LBTC",
+    "decimals": 8,
+    "logo_url": "",
+    "token_type": {
+      "type": "0xf802c76594af652ea0b571f6184c57dd8c95bbc89fc2798987f3808e6112c838::coins::LBTC",
+      "account_address": "0xf802c76594af652ea0b571f6184c57dd8c95bbc89fc2798987f3808e6112c838",
+      "module_name": "coins",
+      "struct_name": "LBTC"
+    }
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "LETH",
+    "decimals": 8,
+    "logo_url": "",
+    "token_type": {
+      "type": "0xf802c76594af652ea0b571f6184c57dd8c95bbc89fc2798987f3808e6112c838::coins::LETH",
+      "account_address": "0xf802c76594af652ea0b571f6184c57dd8c95bbc89fc2798987f3808e6112c838",
+      "module_name": "coins",
+      "struct_name": "LETH"
+    }
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "LUSDC",
+    "decimals": 8,
+    "logo_url": "",
+    "token_type": {
+      "type": "0xf802c76594af652ea0b571f6184c57dd8c95bbc89fc2798987f3808e6112c838::coins::LUSDC",
+      "account_address": "0xf802c76594af652ea0b571f6184c57dd8c95bbc89fc2798987f3808e6112c838",
+      "module_name": "coins",
+      "struct_name": "LUSDC"
+    }
+  },
+  {
+    "name": "Tether",
+    "symbol": "LUSDT",
+    "decimals": 8,
+    "logo_url": "",
+    "token_type": {
+      "type": "0xf802c76594af652ea0b571f6184c57dd8c95bbc89fc2798987f3808e6112c838::coins::LUSDT",
+      "account_address": "0xf802c76594af652ea0b571f6184c57dd8c95bbc89fc2798987f3808e6112c838",
+      "module_name": "coins",
+      "struct_name": "LUSDT"
+    }
+  }
+]
